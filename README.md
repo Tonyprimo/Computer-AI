@@ -26,14 +26,6 @@ bash
 Copy code
 pip install speechrecognition pyttsx3 pywhatkit wikipedia pyjokes
 
-**Usage**
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/python-jarvis.git
-cd python-jarvis
-
 **Run the script:**
 
 bash
